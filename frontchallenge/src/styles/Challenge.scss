@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* Prend toute la hauteur de la page */
+    width: 100vw; /* Prend toute la largeur de la page */
+    background-color: #1b1b38;
+    justify-content: space-around;
+
+    input {
+        color: white;
+    }
+}
